@@ -6,7 +6,7 @@ using std::string;
 using namespace std;
 
 template < typename T >
-class No {
+struct No {
     T dado;
     No<T> *proximo;
 
@@ -30,9 +30,8 @@ class Pilha
         void imprimir();
 
     protected:
-
-    private:
         No<T> *NoTopo;
+    private:
 };
 
 #endif // PILHA_H

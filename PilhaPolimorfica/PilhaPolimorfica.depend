@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1668199879 source:c:\users\meloy\documents\projetos_git\av-pilhapolimorfica\pilhapolimorfica\pilhapolimorfica\main.cpp
+1668201290 source:c:\users\meloy\documents\projetos_git\av-pilhapolimorfica\pilhapolimorfica\pilhapolimorfica\main.cpp
 	<iostream>
 	"Pilha.h"
 
-1668201290 c:\users\meloy\documents\projetos_git\av-pilhapolimorfica\pilhapolimorfica\pilhapolimorfica\include\pilha.h
+1668203932 c:\users\meloy\documents\projetos_git\av-pilhapolimorfica\pilhapolimorfica\pilhapolimorfica\include\pilha.h
 	<string>
 
 1668200417 source:c:\users\meloy\documents\projetos_git\av-pilhapolimorfica\pilhapolimorfica\pilhapolimorfica\src\pilha.cpp
