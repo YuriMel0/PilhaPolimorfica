@@ -11,3 +11,15 @@
 	<string>
 	<iostream>
 
+1668729018 source:/home/yuri/Documentos/projetos-github/av-pilha/PilhaPolimorfica/PilhaPolimorfica/main.cpp
+	<iostream>
+	"Pilha.h"
+
+1668729018 /home/yuri/Documentos/projetos-github/av-pilha/PilhaPolimorfica/PilhaPolimorfica/include/Pilha.h
+	<string>
+
+1668729018 source:/home/yuri/Documentos/projetos-github/av-pilha/PilhaPolimorfica/PilhaPolimorfica/src/Pilha.cpp
+	"Pilha.h"
+	<string>
+	<iostream>
+
